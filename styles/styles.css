@@ -87,3 +87,13 @@ footer {
 .footerInfo {
     font-size: 75%;
 }
+
+@media (max-width: 750px) {
+    body {
+        font-size: 150%;
+    }
+    
+    #tagline {
+        font-size: 60%;
+    }
+}
